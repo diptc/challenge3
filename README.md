@@ -2,6 +2,7 @@ Prerequisite: Install Python3
 
 Test Cases:
 
+cd src
 
 1. Normal Input Test : python .\Prob2.py .\UC2.json "x/y/z"
 
